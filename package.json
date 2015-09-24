@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/niksolaz/TutorialReactJs_1/issues"
   },
-  "homepage": "https://github.com/niksolaz/TutorialReactJs_1"
+  "homepage": "https://github.com/niksolaz/TutorialReactJs_1",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
